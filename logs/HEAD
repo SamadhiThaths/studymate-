@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 6467de4734bf95cc2acd57220cd8dd398d139b6d gimhantharuke456 <gimhantharuke456@gmail.com> 1754980216 +0530	commit (initial): Initial commit: Tasl Flutter productivity app
+6467de4734bf95cc2acd57220cd8dd398d139b6d 0000000000000000000000000000000000000000 gimhantharuke456 <gimhantharuke456@gmail.com> 1754980228 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 6467de4734bf95cc2acd57220cd8dd398d139b6d gimhantharuke456 <gimhantharuke456@gmail.com> 1754980228 +0530	Branch: renamed refs/heads/master to refs/heads/main
+6467de4734bf95cc2acd57220cd8dd398d139b6d ccbb046b5cd8d2fab71a5f34a0a270cd7262248b gimhantharuke456 <gimhantharuke456@gmail.com> 1754980300 +0530	commit (merge): Merge remote-tracking branch 'origin/main' - resolved README.md conflict
+ccbb046b5cd8d2fab71a5f34a0a270cd7262248b 9958317bed363eb5df6773f26c0e91e6c316f940 gimhantharuke456 <gimhantharuke456@gmail.com> 1754980396 +0530	commit: refactor: rename app from Tasl to StudyMate
