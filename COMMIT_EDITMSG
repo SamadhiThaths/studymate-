@@ -1,0 +1,3 @@
+refactor: rename app from Tasl to StudyMate
+
+Update app name across all platforms including iOS, Android, and Flutter codebase
